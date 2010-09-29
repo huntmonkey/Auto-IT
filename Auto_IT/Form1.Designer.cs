@@ -106,6 +106,7 @@
             this.bilPanel10 = new System.Windows.Forms.Panel();
             this.flowLayoutPanel3 = new System.Windows.Forms.FlowLayoutPanel();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
+            this.richTextBox1 = new System.Windows.Forms.RichTextBox();
             this.nummerpladePanel.SuspendLayout();
             this.nummerPanel.SuspendLayout();
             this.flowLayoutPanel2.SuspendLayout();
@@ -880,11 +881,20 @@
             this.groupBox2.TabStop = false;
             this.groupBox2.Text = "Bil Info";
             // 
+            // richTextBox1
+            // 
+            this.richTextBox1.Location = new System.Drawing.Point(11, 437);
+            this.richTextBox1.Name = "richTextBox1";
+            this.richTextBox1.Size = new System.Drawing.Size(237, 138);
+            this.richTextBox1.TabIndex = 27;
+            this.richTextBox1.Text = "";
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(948, 711);
+            this.Controls.Add(this.richTextBox1);
             this.Controls.Add(this.groupBox2);
             this.Controls.Add(this.menuStrip1);
             this.Controls.Add(this.groupBox1);
@@ -1028,6 +1038,7 @@
         private System.Windows.Forms.Panel bilPanel10;
         private System.Windows.Forms.FlowLayoutPanel flowLayoutPanel3;
         private System.Windows.Forms.GroupBox groupBox2;
+        private System.Windows.Forms.RichTextBox richTextBox1;
 
 
     }
