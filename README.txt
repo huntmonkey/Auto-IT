@@ -20,4 +20,7 @@ git commit
 
 Stephen elsker pølser..
 
-Jannik elsker pølser...
+
+Jeg elsker ikke pølser...
+
+hvem elsker pølser
