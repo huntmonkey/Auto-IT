@@ -75,5 +75,9 @@ namespace CRM_system
         {
             Close();
         }
+
+        public void hentHenrik()
+        {
+        }
     }
 }

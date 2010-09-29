@@ -20,14 +20,9 @@ git commit
 
 Stephen elsker pølser..
 
-<<<<<<< HEAD:README.txt
 
-Jeg elsker ikke pølser...
-
-hvem elsker pølser
-=======
 Jannik elsker pølser...
 
 Hallo skiderrik...
 
->>>>>>> 4daeb5b7ec10c652aba31ae28a06d00084628190:stephen.txt
+
