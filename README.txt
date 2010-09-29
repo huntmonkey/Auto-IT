@@ -20,3 +20,4 @@ git commit
 
 Stephen elsker pølser..
 
+Jannik elsker pølser...
