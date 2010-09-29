@@ -18,3 +18,5 @@ git add .
 
 git commit
 
+Stephen elsker pølser..
+
